@@ -1,3 +1,7 @@
+""" Write a function permute to compute all possible permutations 
+    of elements of a given list.
+"""
+
 import itertools
 
 def permute(a):

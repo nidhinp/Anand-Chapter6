@@ -1,3 +1,7 @@
+""" Implement a function product to multiply 2 numbers recursively
+    using + and - operators only.
+"""
+
 def product(number1, number2):
 	if number2 == 0:
 		return 0

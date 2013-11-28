@@ -1,3 +1,6 @@
+""" Write a function treemap to map a function over nested list.
+"""
+
 def treemap(fun, arg_list):
 	result = []
 	for arg in arg_list:
